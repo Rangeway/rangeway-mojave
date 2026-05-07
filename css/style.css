@@ -1330,6 +1330,23 @@ section { position: relative; }
   gap: var(--space-4);
 }
 
+.climatize__contact {
+  margin: 0;
+  font-size: 0.95rem;
+  color: rgba(245, 241, 235, 0.7);
+}
+
+.climatize__contact a {
+  color: var(--color-warm);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(244, 168, 85, 0.4);
+  transition: border-color 0.2s ease;
+}
+
+.climatize__contact a:hover {
+  border-bottom-color: var(--color-warm);
+}
+
 @media (max-width: 900px) {
   .climatize__inner {
     grid-template-columns: 1fr;
