@@ -30,7 +30,7 @@ jobs:
             rsync -az --delete --chmod=D755,F644 \
               --exclude='.git' --exclude='.github' --exclude='.claude' \
               --exclude='.DS_Store' --exclude='CLAUDE.md' --exclude='README.md' \
-              --exclude='.gitignore' --exclude='.gitattributes' --exclude='CNAME' \
+              --exclude='.gitignore' --exclude='.gitattributes' --exclude='CNAME' --exclude='DEPLOY.md' \
               -e "$SSH" \
               ./ deploy@72.60.71.39:/var/www/rangeway-mojave/ && { rc=0; break; }
             echo "::warning::deploy attempt $attempt failed"
