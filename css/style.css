@@ -806,7 +806,7 @@ section { position: relative; }
 }
 
 .callout {
-  margin-top: var(--space-8);
+  margin: var(--space-8) auto 0;
   padding: clamp(28px, 4vw, 44px);
   border-radius: var(--radius-xl);
   background: rgba(244, 168, 85, 0.10);
