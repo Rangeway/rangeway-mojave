@@ -1,0 +1,218 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - link "Rangeway home" [ref=e5] [cursor=pointer]:
+        - /url: /
+        - img [ref=e6]
+        - generic [ref=e9]: Rangeway
+      - navigation "Primary" [ref=e10]:
+        - list [ref=e11]:
+          - listitem [ref=e12]:
+            - link "The Network" [ref=e13] [cursor=pointer]:
+              - /url: /network
+          - listitem [ref=e14]:
+            - link "Mojave" [ref=e15] [cursor=pointer]:
+              - /url: /mojave
+          - listitem [ref=e16]:
+            - link "Our Story" [ref=e17] [cursor=pointer]:
+              - /url: /our-story
+          - listitem [ref=e18]:
+            - link "Team" [ref=e19] [cursor=pointer]:
+              - /url: /team
+          - listitem [ref=e20]:
+            - link "Partners" [ref=e21] [cursor=pointer]:
+              - /url: /partners
+          - listitem [ref=e22]:
+            - link "Investors" [ref=e23] [cursor=pointer]:
+              - /url: /investors
+          - listitem [ref=e24]:
+            - link "Newsroom" [ref=e25] [cursor=pointer]:
+              - /url: https://newsroom.rangeway.co
+          - listitem [ref=e26]:
+            - link "Contact" [ref=e27] [cursor=pointer]:
+              - /url: /contact
+  - main [ref=e28]:
+    - generic [ref=e29]:
+      - img "Aerial view of Rangeway Mojave at dusk with solar canopy, battery storage, and charging plaza beside the highway" [ref=e31]
+      - generic [ref=e33]:
+        - generic [ref=e35]: The First Rangeway Location
+        - generic [ref=e36]:
+          - heading "Rangeway Mojave." [level=1] [ref=e37]
+          - paragraph [ref=e38]: Off-grid, solar-powered ultra-fast charging on the CA-14 corridor, with launch coming in 2027.
+        - generic [ref=e39]:
+          - link "Visit the microsite" [ref=e40] [cursor=pointer]:
+            - /url: https://rangewaymojave.com
+            - text: Visit the microsite
+            - img [ref=e41]
+          - link "Subscribe to Field Notes" [ref=e43] [cursor=pointer]:
+            - /url: https://fieldnotes.rangeway.co
+      - paragraph [ref=e45]:
+        - generic [ref=e46]: Rangeway Mojave · Antelope Valley, California
+    - generic [ref=e48]:
+      - generic [ref=e50]: Why Here
+      - generic [ref=e51]:
+        - heading "The corridor that's been waiting." [level=2] [ref=e52]
+        - generic [ref=e53]:
+          - paragraph [ref=e54]: The CA-14 corridor connects the Los Angeles basin to the high desert and points north. It is the daily commute for the aerospace and defense workforce at Edwards Air Force Base, Northrop Grumman, Lockheed Martin, Boeing, NASA, and Virgin Galactic, and on weekends, it carries travelers heading to the Eastern Sierra and beyond.
+          - paragraph [ref=e55]: It is one of the busiest single corridors in California without a hospitality-led charging stop. The drivers who use it are technically literate and early to EV adoption, and they drive this stretch every day. Right now, they have nowhere to charge in a place worth waiting in. Rangeway Mojave changes that.
+    - generic [ref=e58]:
+      - generic [ref=e59]:
+        - blockquote [ref=e60]:
+          - text: In a desert corridor where summer afternoons run hot enough to make charging miserable in any open lot,
+          - emphasis [ref=e61]: indoor comfort is not an amenity, it is the product.
+        - paragraph [ref=e62]: Zak Winnick, Founder and CEO
+      - figure "Render The charging plaza at dusk" [ref=e63]:
+        - img "The Rangeway Mojave charging canopy at dusk, with arched timber bays lit from within, vehicles charging, and the desert sunset behind" [ref=e65]
+        - generic [ref=e66]:
+          - strong [ref=e67]: Render
+          - generic [ref=e68]: The charging plaza at dusk
+    - generic [ref=e70]:
+      - generic [ref=e72]: Phase I
+      - generic [ref=e73]:
+        - heading "Built from the ground up, powered by the sun." [level=2] [ref=e74]
+        - paragraph [ref=e75]:
+          - text: Engineered by
+          - link "Carbon DC" [ref=e76] [cursor=pointer]:
+            - /url: https://carbondc.io
+          - text: ", whose off-grid platform is already operating at multiple sites across California's desert corridors."
+      - generic [ref=e77]:
+        - generic [ref=e78]:
+          - heading "Charging under bamboo." [level=3] [ref=e79]
+          - paragraph [ref=e80]: An open-bay charging plaza beneath a custom canopy of structurally engineered bamboo, where pulling in feels like pulling up to a property, not a parking lot.
+        - generic [ref=e81]:
+          - heading "Solar that's already running." [level=3] [ref=e82]
+          - paragraph [ref=e83]: On-site solar generation and battery energy storage, integrated into a single off-grid platform that Carbon DC already operates at sites across North America.
+        - generic [ref=e84]:
+          - heading "Food from our food truck." [level=3] [ref=e85]
+          - paragraph [ref=e86]: Fresh food and drinks served from our on-site electric food truck, because you deserve more than a vending machine while you wait.
+        - generic [ref=e87]:
+          - heading "A lounge from day one." [level=3] [ref=e88]
+          - paragraph [ref=e89]: A climate-controlled mobile lounge, solar-powered and built for the desert, giving drivers a comfortable place to sit, cool off, and wait from the day we open.
+        - generic [ref=e90]:
+          - heading "A site shaped by place." [level=3] [ref=e91]
+          - paragraph [ref=e92]: Native high-desert landscaping, shaded seating that holds the afternoon, and a layout designed to read as part of the Mojave Desert, not bolted onto it.
+      - figure "Plate Phase I concept · Solar field, battery storage, charging plaza, and food truck seating" [ref=e93]:
+        - img "Daytime aerial rendering of Rangeway Mojave with the solar field, battery storage, bamboo charging canopy, food truck, and shaded seating beside the CA-14" [ref=e95]
+        - generic [ref=e96]:
+          - strong [ref=e97]: Plate
+          - generic [ref=e98]: Phase I concept · Solar field, battery storage, charging plaza, and food truck seating
+      - paragraph [ref=e99]:
+        - text: "Phase II grows the mobile lounge into the full Basecamp experience: a permanent, climate-controlled building with a staffed cafe, comfortable seating, comfortable restrooms, and on-site coffee roasting from"
+        - link "Red Canyon Roasting Company" [ref=e100] [cursor=pointer]:
+          - /url: https://redcanyonroasting.co
+        - text: . The lounge grows with the site.
+    - generic [ref=e102]:
+      - generic [ref=e104]: How It Works
+      - generic [ref=e105]:
+        - heading "Sunlight in, electrons out, grid optional." [level=2] [ref=e106]
+        - paragraph [ref=e107]: This is not experimental technology. We are deploying a proven platform, not testing a prototype.
+      - generic [ref=e108]:
+        - generic [ref=e109]:
+          - heading "Solar panels generate the power." [level=3] [ref=e110]
+          - paragraph [ref=e111]: A ground-mounted solar array captures Mojave sunlight across several acres of dedicated solar field, in one of the strongest solar-resource areas in the United States.
+        - generic [ref=e112]:
+          - heading "Batteries store it." [level=3] [ref=e113]
+          - paragraph [ref=e114]: A battery energy storage system holds the energy and manages load, ensuring consistent charging power regardless of time of day or cloud cover.
+        - generic [ref=e115]:
+          - heading "Chargers deliver it." [level=3] [ref=e116]
+          - paragraph [ref=e117]: Ultra-fast DC charging ports dispense the stored solar energy directly to your vehicle, and the entire system operates independently of the electrical grid.
+      - link "Learn more about Carbon DC" [ref=e119] [cursor=pointer]:
+        - /url: https://carbondc.io
+        - text: Learn more about Carbon DC
+        - img [ref=e120]
+    - generic [ref=e124]:
+      - generic [ref=e126]: The Full Story
+      - generic [ref=e127]:
+        - heading "Every network starts with one site. This is ours." [level=2] [ref=e128]
+        - generic [ref=e129]:
+          - paragraph [ref=e130]: "Visit the Rangeway Mojave microsite for the full story: site stats, how the off-grid platform works, the vision behind the network, and how to follow construction progress."
+          - generic [ref=e131]:
+            - link "Visit Rangeway Mojave" [ref=e132] [cursor=pointer]:
+              - /url: https://rangewaymojave.com
+              - text: Visit Rangeway Mojave
+              - img [ref=e133]
+            - link "Explore the Network" [ref=e135] [cursor=pointer]:
+              - /url: /network
+  - contentinfo [ref=e136]:
+    - generic [ref=e137]:
+      - generic [ref=e138]:
+        - paragraph [ref=e139]:
+          - text: Travel farther,
+          - text: stop better.
+        - generic [ref=e140]:
+          - generic [ref=e141]:
+            - heading "Explore" [level=3] [ref=e142]
+            - list [ref=e143]:
+              - listitem [ref=e144]:
+                - link "The Network" [ref=e145] [cursor=pointer]:
+                  - /url: /network
+              - listitem [ref=e146]:
+                - link "Rangeway Mojave" [ref=e147] [cursor=pointer]:
+                  - /url: /mojave
+              - listitem [ref=e148]:
+                - link "Our Story" [ref=e149] [cursor=pointer]:
+                  - /url: /our-story
+              - listitem [ref=e150]:
+                - link "Team" [ref=e151] [cursor=pointer]:
+                  - /url: /team
+              - listitem [ref=e152]:
+                - link "Partners" [ref=e153] [cursor=pointer]:
+                  - /url: /partners
+          - generic [ref=e154]:
+            - heading "Company" [level=3] [ref=e155]
+            - list [ref=e156]:
+              - listitem [ref=e157]:
+                - link "Investors" [ref=e158] [cursor=pointer]:
+                  - /url: /investors
+              - listitem [ref=e159]:
+                - link "Careers" [ref=e160] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/rangewayenergy/jobs/
+              - listitem [ref=e161]:
+                - link "Contact" [ref=e162] [cursor=pointer]:
+                  - /url: /contact
+          - generic [ref=e163]:
+            - heading "Follow along" [level=3] [ref=e164]
+            - list [ref=e165]:
+              - listitem [ref=e166]:
+                - link "Field Notes" [ref=e167] [cursor=pointer]:
+                  - /url: https://fieldnotes.rangeway.co
+              - listitem [ref=e168]:
+                - link "Newsroom" [ref=e169] [cursor=pointer]:
+                  - /url: https://newsroom.rangeway.co
+              - listitem [ref=e170]:
+                - link "Instagram" [ref=e171] [cursor=pointer]:
+                  - /url: https://instagram.com/RangewayEV
+              - listitem [ref=e172]:
+                - link "LinkedIn" [ref=e173] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/rangewayenergy
+              - listitem [ref=e174]:
+                - link "X" [ref=e175] [cursor=pointer]:
+                  - /url: https://x.com/RangewayEV
+          - generic [ref=e176]:
+            - heading "Reach us" [level=3] [ref=e177]
+            - generic [ref=e178]:
+              - text: 2661 Market Street, STE 85787
+              - text: San Francisco, CA 94114
+            - list [ref=e179]:
+              - listitem [ref=e180]:
+                - link "(650) 420-6300" [ref=e181] [cursor=pointer]:
+                  - /url: tel:+16504206300
+              - listitem [ref=e182]:
+                - link "hello@rangeway.co" [ref=e183] [cursor=pointer]:
+                  - /url: mailto:hello@rangeway.co
+      - link "Rangeway home" [ref=e184] [cursor=pointer]:
+        - /url: /
+        - text: Rangeway
+      - generic [ref=e185]:
+        - paragraph [ref=e186]: © 2026 Rangeway Energy, Inc. All rights reserved.
+        - paragraph [ref=e187]:
+          - link "Our Commitments" [ref=e188] [cursor=pointer]:
+            - /url: /commitments
+          - generic [ref=e189]: ·
+          - link "Privacy Policy" [ref=e190] [cursor=pointer]:
+            - /url: /privacy
+          - generic [ref=e191]: ·
+          - link "Terms of Service" [ref=e192] [cursor=pointer]:
+            - /url: /terms

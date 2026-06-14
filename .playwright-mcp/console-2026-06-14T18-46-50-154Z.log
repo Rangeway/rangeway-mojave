@@ -1,0 +1,4 @@
+[      24ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://tinylytics.app/embed/9_N5xEnQSTdibXFSDoqf.js:0
+[   71970ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://tinylytics.app/embed/9_N5xEnQSTdibXFSDoqf.js:0
+[   71993ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:8757/favicon.svg:0
+[   75618ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:8757/images/mojave-site-aerial.jpg:0

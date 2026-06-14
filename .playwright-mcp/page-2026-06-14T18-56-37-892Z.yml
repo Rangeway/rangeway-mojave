@@ -1,0 +1,316 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - link "Rangeway home" [ref=e5] [cursor=pointer]:
+        - /url: /
+        - img [ref=e6]
+        - generic [ref=e9]: Rangeway
+      - navigation "Primary" [ref=e10]:
+        - list [ref=e11]:
+          - listitem [ref=e12]:
+            - link "The Network" [ref=e13] [cursor=pointer]:
+              - /url: /network
+          - listitem [ref=e14]:
+            - link "Our Story" [ref=e15] [cursor=pointer]:
+              - /url: /our-story
+          - listitem [ref=e16]:
+            - link "Team" [ref=e17] [cursor=pointer]:
+              - /url: /team
+          - listitem [ref=e18]:
+            - link "Partners" [ref=e19] [cursor=pointer]:
+              - /url: /partners
+          - listitem [ref=e20]:
+            - link "Investors" [ref=e21] [cursor=pointer]:
+              - /url: /investors
+          - listitem [ref=e22]:
+            - link "Newsroom" [ref=e23] [cursor=pointer]:
+              - /url: https://newsroom.rangeway.co
+          - listitem [ref=e24]:
+            - link "Contact" [ref=e25] [cursor=pointer]:
+              - /url: /contact
+  - main [ref=e26]:
+    - generic [ref=e27]:
+      - img "A Rangeway Waystation at dusk with sunset-lit mountains behind, lounge interior glowing through the glass facade, and a Rivian charging under the timber canopy" [ref=e30]
+      - generic [ref=e32]:
+        - generic [ref=e33]:
+          - generic [ref=e34]: Rangeway
+          - generic [ref=e35]: America's First Hospitality-Driven EV Charging Network
+        - heading "Travel Farther, Stop Better." [level=1] [ref=e37]:
+          - generic [ref=e38]: Travel
+          - generic [ref=e39]: Farther,
+          - generic [ref=e40]: Stop Better.
+        - generic [ref=e41]:
+          - paragraph [ref=e42]: Hospitality operators run every location, and the stop, not the charger, is the point.
+          - generic [ref=e43]:
+            - link "Discover the Network" [ref=e44] [cursor=pointer]:
+              - /url: /network
+              - text: Discover the Network
+              - img [ref=e45]
+            - link "Our Story" [ref=e47] [cursor=pointer]:
+              - /url: /our-story
+    - generic [ref=e49]:
+      - generic [ref=e51]: Our Thesis
+      - generic [ref=e52]:
+        - blockquote [ref=e54]:
+          - text: We think like
+          - emphasis [ref=e55]: hotel operators
+          - text: ", not utility companies. The stop should be worth the time."
+        - complementary [ref=e56]:
+          - paragraph [ref=e57]: Every Rangeway location is designed the way a hospitality operator designs a property. Lighting, materials, service, sequence. The charging happens inside a space built for the people waiting, not outside in a lot built for the car.
+    - generic [ref=e59]:
+      - generic [ref=e61]: The Network
+      - generic [ref=e62]:
+        - heading "Four formats. One unwavering standard." [level=2] [ref=e63]
+        - paragraph [ref=e64]: Every Rangeway location shares the same hospitality DNA. The scale shifts with the corridor, the community, and the journey.
+      - generic [ref=e65]:
+        - link "Trailhead · Emerging corridors Trailhead Where the journey begins Ultra-fast charging under a covered canopy, with clean restrooms nearby and reliable Wi-Fi. Purpose-built for emerging corridors and the communities that support them. Explore Trailhead" [ref=e66] [cursor=pointer]:
+          - /url: /network/trailhead
+          - figure "Trailhead · Emerging corridors" [ref=e67]:
+            - img "A Trailhead canopy with warm lighting" [ref=e69]
+            - generic [ref=e71]: Trailhead · Emerging corridors
+          - generic [ref=e72]:
+            - heading "Trailhead" [level=3] [ref=e73]
+            - paragraph [ref=e74]: Where the journey begins
+            - paragraph [ref=e75]: Ultra-fast charging under a covered canopy, with clean restrooms nearby and reliable Wi-Fi. Purpose-built for emerging corridors and the communities that support them.
+            - generic [ref=e76]:
+              - text: Explore Trailhead
+              - img [ref=e77]
+        - link "Waystation · Joshua Tree Waystation Streamlined comfort Ultra-fast charging paired with a climate-controlled driver's lounge, comfortable restrooms, generous seating, and high-speed Wi-Fi. The heart of the network. Explore Waystation" [ref=e79] [cursor=pointer]:
+          - /url: /network/waystation
+          - figure "Waystation · Joshua Tree" [ref=e80]:
+            - img "A Waystation nestled into the Joshua Tree landscape" [ref=e82]
+            - generic [ref=e84]: Waystation · Joshua Tree
+          - generic [ref=e85]:
+            - heading "Waystation" [level=3] [ref=e86]
+            - paragraph [ref=e87]: Streamlined comfort
+            - paragraph [ref=e88]: Ultra-fast charging paired with a climate-controlled driver's lounge, comfortable restrooms, generous seating, and high-speed Wi-Fi. The heart of the network.
+            - generic [ref=e89]:
+              - text: Explore Waystation
+              - img [ref=e90]
+        - link "Basecamp · High-traffic corridors Basecamp The full-service destination Ultra-fast charging, a staffed driver's lounge, and a staffed cafe. Our flagship experience on high-traffic corridors. Explore Basecamp" [ref=e92] [cursor=pointer]:
+          - /url: /network/basecamp
+          - figure "Basecamp · High-traffic corridors" [ref=e93]:
+            - img "A Basecamp at dusk with a lit lounge, charging canopy, and desert mountains behind" [ref=e95]
+            - generic [ref=e97]: Basecamp · High-traffic corridors
+          - generic [ref=e98]:
+            - heading "Basecamp" [level=3] [ref=e99]
+            - paragraph [ref=e100]: The full-service destination
+            - paragraph [ref=e101]: Ultra-fast charging, a staffed driver's lounge, and a staffed cafe. Our flagship experience on high-traffic corridors.
+            - generic [ref=e102]:
+              - text: Explore Basecamp
+              - img [ref=e103]
+        - link "Summit · Overnight destinations Summit Where the road meets rest Modular Lookouts, a central clubhouse, and fully off-grid solar charging. A hospitality-first destination where the stop becomes the journey. Explore Summit" [ref=e105] [cursor=pointer]:
+          - /url: /network/summit
+          - figure "Summit · Overnight destinations" [ref=e106]:
+            - img "A Summit Lookout framed by the desert at dusk" [ref=e108]
+            - generic [ref=e110]: Summit · Overnight destinations
+          - generic [ref=e111]:
+            - heading "Summit" [level=3] [ref=e112]
+            - paragraph [ref=e113]: Where the road meets rest
+            - paragraph [ref=e114]: Modular Lookouts, a central clubhouse, and fully off-grid solar charging. A hospitality-first destination where the stop becomes the journey.
+            - generic [ref=e115]:
+              - text: Explore Summit
+              - img [ref=e116]
+    - generic [ref=e121]:
+      - generic [ref=e123]: The Standard
+      - generic [ref=e124]:
+        - heading "The Indoor Comfort Guarantee." [level=2] [ref=e126]
+        - generic [ref=e127]:
+          - paragraph [ref=e128]: Every Waystation and Basecamp commits to climate-controlled indoor comfort, with comfortable restrooms, generous seating, and reliable high-speed Wi-Fi. The lounge is part of the standard, not an upsell.
+          - paragraph [ref=e129]: At Trailheads, drivers are welcomed by covered canopies, clean restrooms nearby, and reliable Wi-Fi. At Summits, the hospitality extends into overnight stays in modular Lookouts.
+      - paragraph [ref=e130]:
+        - strong [ref=e131]: Interior
+        - generic [ref=e132]: driver's lounge · Basecamp
+    - generic [ref=e134]:
+      - generic [ref=e136]: Our Story
+      - generic [ref=e137]:
+        - figure "Interior driver's lounge · Basecamp" [ref=e138]:
+          - img "Warm interior of a Rangeway driver's lounge" [ref=e140]
+          - generic [ref=e141]:
+            - strong [ref=e142]: Interior
+            - generic [ref=e143]: driver's lounge · Basecamp
+        - generic [ref=e144]:
+          - heading "Hospitality DNA meets EV passion." [level=2] [ref=e145]
+          - paragraph [ref=e146]: Rangeway sits at the intersection of two worlds. One is a long career in hospitality, across luxury resorts, wellness retreats, and flagship urban hotels, where we learned what a great stop feels like. The other is a deep presence in the EV driver community, leading clubs and hosting podcasts, where we learned what charging could be. Rangeway is what happens when those worlds meet.
+          - link "Read our story" [ref=e147] [cursor=pointer]:
+            - /url: /our-story
+            - text: Read our story
+            - img [ref=e148]
+    - generic [ref=e151]:
+      - generic [ref=e153]: Where We're Going
+      - generic [ref=e154]:
+        - heading "The road ahead." [level=2] [ref=e155]
+        - paragraph [ref=e156]:
+          - link "Qualified investors" [ref=e157] [cursor=pointer]:
+            - /url: /investors
+          - text: can review the full pipeline under NDA.
+      - generic [ref=e158]:
+        - generic [ref=e159]:
+          - heading "Rangeway Mojave is breaking ground in the Antelope Valley." [level=3] [ref=e160]
+          - paragraph [ref=e161]: Off-grid, solar-powered ultra-fast charging on the CA-14 corridor. Coming 2027.
+        - generic [ref=e162]:
+          - heading "An urban network is taking root in Missouri." [level=3] [ref=e163]
+          - paragraph [ref=e164]: Two sites in development.
+        - generic [ref=e165]:
+          - heading "Routes are being charted across Montana." [level=3] [ref=e166]
+          - paragraph [ref=e167]: Corridor planning is underway.
+      - generic [ref=e168]:
+        - link "Explore Rangeway Mojave" [ref=e169] [cursor=pointer]:
+          - /url: /mojave
+          - text: Explore Rangeway Mojave
+          - img [ref=e170]
+        - link "Request investor briefing" [ref=e172] [cursor=pointer]:
+          - /url: /investors
+        - link "Subscribe to Field Notes" [ref=e173] [cursor=pointer]:
+          - /url: https://fieldnotes.rangeway.co
+    - generic [ref=e175]:
+      - generic [ref=e177]: Leadership
+      - generic [ref=e178]:
+        - heading "The people building Rangeway." [level=2] [ref=e179]
+        - paragraph [ref=e180]: Hospitality operators, energy veterans, and EV community organizers.
+      - list [ref=e181]:
+        - listitem [ref=e182]:
+          - figure "Zak" [ref=e183]:
+            - img "Portrait of Zak Winnick" [ref=e185]
+            - strong [ref=e187]: Zak
+          - heading "Zak Winnick" [level=3] [ref=e188]
+          - paragraph [ref=e189]: Founder and CEO
+          - paragraph [ref=e190]: Zak has spent his career operating luxury resorts and flagship hotels, and has long been an EV driver and community leader.
+        - listitem [ref=e191]:
+          - figure "Luke" [ref=e192]:
+            - img "Portrait of Luke Schüette" [ref=e194]
+            - strong [ref=e196]: Luke
+          - heading "Luke Schüette" [level=3] [ref=e197]
+          - paragraph [ref=e198]: Director of Design and Construction
+          - paragraph [ref=e199]: Luke designs Rangeway's solar canopies and lounge structures, and chairs ASTM's task group on Structural Engineered Bamboo.
+        - listitem [ref=e200]:
+          - figure "Theo" [ref=e201]:
+            - img "Portrait of Theo Reichgelt" [ref=e203]
+            - strong [ref=e205]: Theo
+          - heading "Theo Reichgelt" [level=3] [ref=e206]
+          - paragraph [ref=e207]: Brand and Growth
+          - paragraph [ref=e208]: Theo founded Nexxt Industry and hosts The eMobility Marketing Podcast.
+        - listitem [ref=e209]:
+          - figure "James" [ref=e210]:
+            - img "Portrait of James Regan" [ref=e212]
+            - strong [ref=e214]: James
+          - heading "James Regan" [level=3] [ref=e215]
+          - paragraph [ref=e216]: Finance and Strategy
+          - paragraph [ref=e217]: James has built his career in corporate development and infrastructure project financing, and serves as Managing Partner at CapitalWorks.
+        - listitem [ref=e218]:
+          - figure "Stephanie" [ref=e219]:
+            - img "Portrait of Stephanie McGreevy" [ref=e221]
+            - strong [ref=e223]: Stephanie
+          - heading "Stephanie McGreevy" [level=3] [ref=e224]
+          - paragraph [ref=e225]: Policy and Public Capital
+          - paragraph [ref=e226]: Stephanie specializes in ZEV infrastructure and founded Open Energy Alliance.
+      - link "Meet the full team" [ref=e228] [cursor=pointer]:
+        - /url: /team
+        - text: Meet the full team
+        - img [ref=e229]
+    - generic [ref=e232]:
+      - generic [ref=e234]: Built With
+      - generic [ref=e235]:
+        - heading "The partners behind the network." [level=2] [ref=e236]
+        - generic [ref=e237]:
+          - paragraph [ref=e238]:
+            - text: Rangeway is operated by a small team and built with partners across structure, energy, software, and driver experience.
+            - link "Carbon DC" [ref=e239] [cursor=pointer]:
+              - /url: https://carbondc.io
+            - text: anchors our off-grid sites,
+            - link "LoüTeq" [ref=e240] [cursor=pointer]:
+              - /url: https://louteq.com
+            - text: builds every structure,
+            - link "Ekoenergetyka" [ref=e241] [cursor=pointer]:
+              - /url: https://ekoenergetyka.com/america/
+            - text: delivers the chargers, and
+            - link "ChargeMate" [ref=e242] [cursor=pointer]:
+              - /url: https://chargemate.ai
+            - text: stands by every driver.
+          - link "See all partners" [ref=e243] [cursor=pointer]:
+            - /url: /partners
+            - text: See all partners
+            - img [ref=e244]
+  - contentinfo [ref=e246]:
+    - generic [ref=e247]:
+      - generic [ref=e248]:
+        - paragraph [ref=e249]:
+          - text: Travel farther,
+          - text: stop better.
+        - generic [ref=e250]:
+          - generic [ref=e251]:
+            - heading "Explore" [level=3] [ref=e252]
+            - list [ref=e253]:
+              - listitem [ref=e254]:
+                - link "The Network" [ref=e255] [cursor=pointer]:
+                  - /url: /network
+              - listitem [ref=e256]:
+                - link "Rangeway Mojave" [ref=e257] [cursor=pointer]:
+                  - /url: /mojave
+              - listitem [ref=e258]:
+                - link "Our Story" [ref=e259] [cursor=pointer]:
+                  - /url: /our-story
+              - listitem [ref=e260]:
+                - link "Team" [ref=e261] [cursor=pointer]:
+                  - /url: /team
+              - listitem [ref=e262]:
+                - link "Partners" [ref=e263] [cursor=pointer]:
+                  - /url: /partners
+          - generic [ref=e264]:
+            - heading "Company" [level=3] [ref=e265]
+            - list [ref=e266]:
+              - listitem [ref=e267]:
+                - link "Investors" [ref=e268] [cursor=pointer]:
+                  - /url: /investors
+              - listitem [ref=e269]:
+                - link "Careers" [ref=e270] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/rangewayenergy/jobs/
+              - listitem [ref=e271]:
+                - link "Contact" [ref=e272] [cursor=pointer]:
+                  - /url: /contact
+          - generic [ref=e273]:
+            - heading "Follow along" [level=3] [ref=e274]
+            - list [ref=e275]:
+              - listitem [ref=e276]:
+                - link "Field Notes" [ref=e277] [cursor=pointer]:
+                  - /url: https://fieldnotes.rangeway.co
+              - listitem [ref=e278]:
+                - link "Newsroom" [ref=e279] [cursor=pointer]:
+                  - /url: https://newsroom.rangeway.co
+              - listitem [ref=e280]:
+                - link "Instagram" [ref=e281] [cursor=pointer]:
+                  - /url: https://instagram.com/RangewayEV
+              - listitem [ref=e282]:
+                - link "LinkedIn" [ref=e283] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/rangewayenergy
+              - listitem [ref=e284]:
+                - link "X" [ref=e285] [cursor=pointer]:
+                  - /url: https://x.com/RangewayEV
+          - generic [ref=e286]:
+            - heading "Reach us" [level=3] [ref=e287]
+            - generic [ref=e288]:
+              - text: 2661 Market Street, STE 85787
+              - text: San Francisco, CA 94114
+            - list [ref=e289]:
+              - listitem [ref=e290]:
+                - link "(650) 420-6300" [ref=e291] [cursor=pointer]:
+                  - /url: tel:+16504206300
+              - listitem [ref=e292]:
+                - link "hello@rangeway.co" [ref=e293] [cursor=pointer]:
+                  - /url: mailto:hello@rangeway.co
+      - link "Rangeway home" [ref=e294] [cursor=pointer]:
+        - /url: /
+        - text: Rangeway
+      - generic [ref=e295]:
+        - paragraph [ref=e296]: © 2026 Rangeway Energy, Inc. All rights reserved.
+        - paragraph [ref=e297]:
+          - link "Our Commitments" [ref=e298] [cursor=pointer]:
+            - /url: /commitments
+          - generic [ref=e299]: ·
+          - link "Privacy Policy" [ref=e300] [cursor=pointer]:
+            - /url: /privacy
+          - generic [ref=e301]: ·
+          - link "Terms of Service" [ref=e302] [cursor=pointer]:
+            - /url: /terms
