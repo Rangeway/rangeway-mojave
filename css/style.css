@@ -115,7 +115,7 @@ h3 { font-size: clamp(1.45rem, 2.3vw, 2.05rem); font-weight: 800; }
 .partner-card a:hover { color: var(--oxide); }
 
 .updates { background: var(--paper); }
-.updates__grid { display: grid; grid-template-columns: minmax(0, 7fr) minmax(0, 4fr); gap: 36px clamp(40px, 7vw, 108px); align-items: end; }
+.updates__grid { display: grid; grid-template-columns: minmax(0, 7fr) minmax(0, 4fr); gap: 36px clamp(40px, 7vw, 108px); align-items: start; }
 .updates__grid p { color: var(--muted); font-size: 1.16rem; }
 .button { display: inline-flex; align-items: center; gap: 14px; margin-top: 14px; padding: 14px 23px; background: var(--sun); color: var(--ink); font-family: var(--heading); font-size: .76rem; font-weight: 800; letter-spacing: .13em; text-transform: uppercase; }
 .button:hover { background: var(--highway); color: var(--paper); }
