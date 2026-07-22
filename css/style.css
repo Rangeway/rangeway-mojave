@@ -32,7 +32,7 @@ h3 { font-size: clamp(1.45rem, 2.3vw, 2.05rem); font-weight: 800; }
 :focus-visible { outline: 3px solid var(--sun); outline-offset: 4px; }
 
 .masthead { position: fixed; inset: 0 0 auto; z-index: 50; height: var(--nav); background: var(--highway); color: var(--paper); border-bottom: 1px solid var(--light-border); }
-.masthead__inner { display: flex; align-items: center; justify-content: space-between; gap: 28px; max-width: var(--max); height: 100%; margin: 0 auto; padding-inline: var(--gutter); }
+.masthead__inner { display: flex; align-items: center; justify-content: space-between; gap: 28px; width: 100%; height: 100%; margin: 0; padding-inline: var(--gutter); }
 .masthead__brand, .folio-footer__brand { display: inline-flex; align-items: center; gap: 0; white-space: nowrap; }
 .brand-lockup { display: block; width: clamp(138px, 15vw, 164px); height: auto; color: var(--paper); overflow: visible; }
 .masthead__site { margin-left: 7px; padding-left: 12px; border-left: 1px solid var(--light-border); color: var(--sun); font-size: .72rem; font-weight: 700; letter-spacing: .18em; text-transform: uppercase; }
